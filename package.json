@@ -1,0 +1,23 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nttrung143/chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nttrung143/chatbot/issues"
+  },
+  "homepage": "https://github.com/nttrung143/chatbot#readme",
+  "dependencies": {
+    "messenger-bot": "^2.4.0"
+  }
+}
